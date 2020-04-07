@@ -14,7 +14,7 @@ WGSGKC publishes paper tour guides which they sell in local businesses and at lo
 WGSGKC presently does not have a way of providing the tour guide online or in a phone app.
 This project seeks to provide a basically functioning website on which a phone app can be developed, then improved upon.
 
-My neighbor and backyard 5 o'clock beverage buddy who happens to be a water garden owner and who is affiliated with the Water Garden Society inspired me to conceive this project as we discussed all the challenges of preparing the printed tour guide and just how convenient it would be to have a web application that would be more versatile and easily updateable.
+My neighbor and backyard 5 o'clock beverage buddy who happens to be a water garden owner and who is affiliated with the Water Garden Society inspired me to conceive this project as we discussed all the challenges of preparing the printed tour guide and just how convenient it would be to have a web application that would be more versatile and easily updatable.
 ### Features
 - Provide for user registration using an authorization code, user login, password change
 - Provide a a sortable list of all water gardens on tour as well as a map showing the locations
@@ -23,7 +23,7 @@ My neighbor and backyard 5 o'clock beverage buddy who happens to be a water gard
 - Provide a map showing the locations of selected water gardens to visit
 - Provide routing to next water garden from present location
 - Allow admin to add water gardens to the database
-- Water Garden information: Owners, Address, Description, Musician, Artist, 
+- Water Garden information: Owners, Address, Description, Musician, Artist, Schedule for Musician and Artist's performance timeslot
 - Allow admin to identify which water gardens are on the present years tour
 - Maintain history of which water gardens were on which year's tour and any garden updates by year.
 - Include advertiser information
@@ -41,5 +41,11 @@ My neighbor and backyard 5 o'clock beverage buddy who happens to be a water gard
 ### References
 - WGSGKC website: https://www.kcwatergarden.com/
 - Excerpts from 2019 tour guide
-add pictures of selected pages here
-
+![Tour Book Cover](WGCGKC-1.jpg)
+![Icons etc](WGCGKC-2.jpg)
+![Sites with Artist Musicians](WGCGKC-3.jpg)
+![Music Schedule and Musicians](WGCGKC-4.jpg)
+![Pond Description Directions](WGCGKC-5.jpg)
+![More Pond Description](WGCGKC-6.jpg)
+![Ads Example 1](WGCGKC-7.jpg)
+![Ads Example 2](WGCGKC-8.jpg)
