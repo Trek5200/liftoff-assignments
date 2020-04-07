@@ -8,9 +8,13 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 The Water Garden Society of the Greater Kansas City area (WGSGKC) holds an annual tour of water gardens in the area. WGSGKC is a 501(c)3 not-for-profit organization dedicated to the construction, preservation, and appreciation of water gardens throughout the Kansas City metro area.
+
 WGSGKC publishes paper tour guides which they sell in local businesses and at local venues.  The paper tour guide serves as the 'ticket' for access to the gardens on the tour. The tour guide contains information on each of the water gardens, maps showing recommended routes from one to another, and advertising.  The tour proceeds and advertising revenue provide for the vast majority of the society's limited annual operating budget.
+
 WGSGKC presently does not have a way of providing the tour guide online or in a phone app.
 This project seeks to provide a basically functioning website on which a phone app can be developed, then improved upon.
+
+My neighbor and backyard 5 o'clock beverage buddy who happens to be a water garden owner and who is affiliated with the Water Garden Society inspired me to conceive this project as we discussed all the challenges of preparing the printed tour guide and just how convenient it would be to have a web application that would be more versatile and easily updateable.
 ### Features
 - Provide for user registration using an authorization code, user login, password change
 - Provide a a sortable list of all water gardens on tour as well as a map showing the locations
