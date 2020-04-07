@@ -31,7 +31,7 @@ This project seeks to provide a basically functioning website on which a phone a
 - Google Maps API
 ### What the Team Will Need to Learn
 - How to interact with Google maps to display multiple pins and select a pin to add to a list
-- Everything already learned and misplaced in our scattered brains
+- Everything already learned and misplaced in our jam-packed brains
 ### Project Tracker
 - https://trello.com/b/iW4dvJnj/water-garden-tour-app
 ### References
