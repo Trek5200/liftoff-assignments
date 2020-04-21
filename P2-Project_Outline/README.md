@@ -23,10 +23,11 @@ Minimal Viable Product
 - Allow a user to downselect from a list of all locations to create a personalized list of locations
 - Display the list of locations on a map
 - Allow for user to use map directions to get to the location as selected on the map
+- Provide for user registration and user login
 
 Stretch goals
 
-- Provide for user registration using an authorization code, user login, password change
+- Provide for user password change
 - Provide a sortable list of all water gardens on tour as well as a map showing the locations
 - Allow user to create a personalized tour by downselecting a list of locations to visit by selecting from map pins
 - Allow user to select locations by metadata features: examples] Pond on tour last year, Rain Garden, Built by Professional, Music, Visitor friendly terrain, Artist, Children allowed, Pets permitted, Adopted rescue fish, Train, Non-residential site, Bult by WGSGKC, Sponsored site
